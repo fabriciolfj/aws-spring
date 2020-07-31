@@ -1,0 +1,16 @@
+
+aws:
+  accessKeyId:
+  secretAccessKey:
+  s3:
+    regiao: us-east-1
+
+cloud:
+  aws:
+    credentials:
+      accessKey:
+      secretKey:
+    region:
+      static: us-east-1
+    stack:
+      auto: false
