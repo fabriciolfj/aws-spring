@@ -18,7 +18,7 @@ aws s3 sync . s3://fabriciotest (sincronizar os arquivos para um bucket)
 Criando uma maquina ec2
 ```
 aws ec2 run-instances --instance-type t2.micro --image-id ami-0c0ec4f9dfef65946
-
+``` 
 
 ###### Comandos terraform
 ``` 
